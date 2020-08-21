@@ -30,7 +30,7 @@ Data in input file in.txt (the red points are outside of the circle):
 ~~~
 
 # Outputs
-*Note:
+*Note:  
 Record 1: -4 -2  
 ...  
 Record 9: 3 1*
