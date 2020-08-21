@@ -30,12 +30,12 @@ Data in input file in.txt (the red points are outside of the circle):
 ~~~
 
 # Outputs
-**Output file out.txt:**
-
+*Note:
 Record 1: -4 -2  
 ...  
-Record 9: 3 1
+Record 9: 3 1*
 
+**Output file out.txt:**
 ~~~
 -4 -2 
 -4 2 
