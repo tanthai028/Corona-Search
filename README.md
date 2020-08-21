@@ -10,7 +10,7 @@ For your convenience, here is how you could do it in CMD environment.
 2. After compilation, to run the program, you would type the following command: a.exe
 
 # Output 
-Sample data in Input file in.txt (the red points are outside of the circle):
+Data in input file in.txt (the red points are outside of the circle):
 ~~~
 -1 1 5 14
 3 1
@@ -42,7 +42,7 @@ Sample output file out.txt:
 3 1 
 ~~~
 
-Sample console input and outputs
+Console input and outputs
 ~~~
 filtered and sorted data written to out.txt
 Search input (x y): 2 -1
