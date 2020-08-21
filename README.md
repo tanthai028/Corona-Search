@@ -6,7 +6,7 @@ Wrote a C program that utilizes merge sort and binary search algorithm to filter
 # Usage
 For your convenience, here is how you could do it in UNIX environment.
 
-1. First compile:$ gcc coronasearch.c
+1. First compile: gcc coronasearch.c
 2. After compilation, to run the program, you would type the following command: a.exe
 
 # Output 
