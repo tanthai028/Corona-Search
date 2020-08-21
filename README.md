@@ -2,7 +2,6 @@
 Wrote a C program that utilizes merge sort and binary search algorithm to filter out and search points that are within the radius that had cases of coronavirus for course COP 3502C at the University of Central Florida
 
 ![GitHub Logo](coronasearch.png)
-Format: ![Alt Text](url)
 
 # Usage
 For your convenience, here is how you could do it in UNIX environment.
