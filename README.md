@@ -9,7 +9,8 @@ For your convenience, here is how you could do it in CMD environment.
 1. First compile: gcc coronasearch.c
 2. After compilation, to run the program, you would type the following command: a.exe
 
-# Output 
+# Coordinate points 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 Data in input file in.txt (the red points are outside of the circle):
 ~~~
 -1 1 5 14
@@ -45,6 +46,8 @@ Record 9: 3 1
 2 4 
 3 1 
 ~~~
+
+# Outputs
 
 Console input and outputs
 ~~~
