@@ -8,6 +8,7 @@ For your convenience, here is how you could do it in UNIX environment.
 2. After compilation, to run the program, you would type the following command: a.exe
 
 # Output 
+Sample console input and outputs
 ~~~
 filtered and sorted data written to out.txt
 Search input (x y): 2 -1
@@ -22,4 +23,17 @@ Search input (x y): -4 -2
 Output: Found at record 1
 Search input (x y): -999 10
 Output: exit
+~~~
+
+Sample output file out.txt
+~~~
+-4 -2 
+-4 2 
+-2 4 
+-1 3 
+0 -2 
+2 -2 
+2 2 
+2 4 
+3 1 
 ~~~
