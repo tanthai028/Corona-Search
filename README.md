@@ -48,7 +48,7 @@ Record 9: 3 1*
 3 1 
 ~~~
 
-**Console inputs**
+**Console example inputs**
 ~~~
 filtered and sorted data written to out.txt
 Search input (x y): 2 -1
