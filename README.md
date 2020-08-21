@@ -1,7 +1,7 @@
 # Corona-Search-
 Wrote a C program that utilizes merge sort and binary search algorithm to filter out and search points that are within the radius that had cases of coronavirus for course COP 3502C at the University of Central Florida
 
-!(coronasearch.png)
+![](coronasearch.png)
 
 # Usage
 For your convenience, here is how you could do it in CMD environment.
