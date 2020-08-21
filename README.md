@@ -30,9 +30,10 @@ Data in input file in.txt (the red points are outside of the circle):
 ~~~
 
 # Outputs
-Sample output file out.txt:
+**Sample output file out.txt:**
 
 Record 1: -4 -2  
+...  
 Record 9: 3 1
 
 ~~~
@@ -47,7 +48,7 @@ Record 9: 3 1
 3 1 
 ~~~
 
-Console inputs
+**Console inputs**
 ~~~
 filtered and sorted data written to out.txt
 Search input (x y): 2 -1
