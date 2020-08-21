@@ -30,6 +30,9 @@ Data in input file in.txt (the red points are outside of the circle):
 ~~~
 
 Sample output file out.txt:
+Record 1: -4 -2
+...
+Record 9: 3 1 
 ~~~
 -4 -2 
 -4 2 
