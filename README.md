@@ -11,32 +11,23 @@ For your convenience, here is how you could do it in CMD environment.
 
 # Coordinate points 
 Data in input file in.txt (the red points are outside of the circle):
-
+~~~
 -1 1 5 14
 3 1
-```json
 -6 -2
-```
 -4 2
-```json
 4 -4
-```
 2 4
 -1 3
 2 2
 0 -2
 -4 -2
-```json
 -6 6
-```
-```json
 4 4
-```
 -2 4
 2 -2
-```json
 -4 6
-```
+~~~
 
 Sample output file out.txt:
 
