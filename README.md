@@ -50,7 +50,7 @@ The numbers are x coordinate of the center of the circle, y coordinate of the ce
 3 1 
 ~~~
 
-**Console example inputs**
+**Console Example**
 ~~~
 filtered and sorted data written to out.txt
 Search input (x y): 2 -1
