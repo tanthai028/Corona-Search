@@ -1,5 +1,6 @@
 # Corona-Search-
 *Corona Search* is a C program that utilizes merge sort and binary search algorithm to filter out and search points that are within the radius that had cases of coronavirus.  
+  
 ![](coronasearch.png)
 
 # Usage
