@@ -21,7 +21,7 @@ The numbers are x coordinate of the center of the circle, y coordinate of the ce
 ...  
 3 1 = Record 9  
 
-**Output file out.txt:**
+**Output file out.txt:**  
 ![](output.png)
 
 **Console Example**
