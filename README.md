@@ -10,7 +10,9 @@ For your convenience, here is how you could do it in CMD environment.
 2. After compilation, to run the program, you would type the following command: a.exe
 
 # Coordinate points 
-Data in input file in.txt (the red points are outside of the circle):
+Data in input file in.txt (the red points are outside of the circle):  
+  
+The numbers are x coordinate of the center of the circle, y coordinate of the center of the circle, r the radius of the circle, and N that says how many points are there in the file.
 ~~~
 -1 1 5 14
 3 1
