@@ -13,23 +13,7 @@ For your convenience, here is how you could do it in CMD environment.
 Data in input file in.txt (the red points are outside of the circle):  
   
 The numbers are x coordinate of the center of the circle, y coordinate of the center of the circle, r the radius of the circle, and N that says how many points are there in the file.
-~~~
--1 1 5 14
-3 1
--6 -2
--4 2
-4 -4
-2 4
--1 3
-2 2
-0 -2
--4 -2
--6 6
-4 4
--2 4
-2 -2
--4 6
-~~~
+![](input.png)
 
 # Outputs
 *Note:*    
@@ -38,17 +22,7 @@ The numbers are x coordinate of the center of the circle, y coordinate of the ce
 3 1 = Record 9  
 
 **Output file out.txt:**
-~~~
--4 -2 
--4 2 
--2 4 
--1 3 
-0 -2 
-2 -2 
-2 2 
-2 4 
-3 1 
-~~~
+![](output.png)
 
 **Console Example**
 ~~~
