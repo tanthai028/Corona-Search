@@ -32,10 +32,10 @@ The numbers are x coordinate of the center of the circle, y coordinate of the ce
 ~~~
 
 # Outputs
-*Note:  
-Record 1: -4 -2  
+*Note:*    
+-4 -2 = Record 1  
 ...  
-Record 9: 3 1*
+3 1 = Record 9  
 
 **Output file out.txt:**
 ~~~
