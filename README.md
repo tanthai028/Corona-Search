@@ -24,7 +24,7 @@ The numbers are x coordinate of the center of the circle, y coordinate of the ce
 **Output file out.txt:**  
 ![](output.png)
 
-**Console Example**
+# Compile Example
 ~~~
 filtered and sorted data written to out.txt
 Search input (x y): 2 -1
