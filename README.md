@@ -15,7 +15,7 @@ Data in input file in.txt (the red points are outside of the circle):
 The numbers are x coordinate of the center of the circle, y coordinate of the center of the circle, r the radius of the circle, and N that says how many points are there in the file.  
 ![](input.png)
 
-# Filter and Sorted Points
+# Filtered and Sorted Points
 *Note:*    
 -4 -2 = Record 1  
 ...  
